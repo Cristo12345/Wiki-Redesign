@@ -1,6 +1,5 @@
 import React from "react";
-import Navbar from "react-bootstrap/Navbar";
-import Nav from "react-bootstrap/Nav";
+import {Navbar} from "react-bootstrap";
 import "./style.css";
 
 const TopNav = () => {
@@ -12,4 +11,4 @@ const TopNav = () => {
     )
 }
 
-export default Nav;
+export default TopNav;
