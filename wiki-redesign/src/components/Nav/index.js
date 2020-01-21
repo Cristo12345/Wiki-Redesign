@@ -1,9 +1,9 @@
 import React from "react";
-import Navbar from "react-bootstrap/Navbar"
-// import Nav from "react-bootstrap/Nav";
+import Navbar from "react-bootstrap/Navbar";
+import Nav from "react-bootstrap/Nav";
 import "./style.css";
 
-const Nav = () => {
+const TopNav = () => {
     return(
         <Navbar bg="dark" expand="lg">
             <Navbar.Brand>Wikipedia</Navbar.Brand>
