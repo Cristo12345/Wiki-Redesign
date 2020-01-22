@@ -7,7 +7,6 @@ class App extends Component {
   render() {
     return (
       <div>
-        <h3>Hello, React</h3>
         <TopNav />
       </div> 
     );

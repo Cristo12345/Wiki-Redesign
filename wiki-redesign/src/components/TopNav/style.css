@@ -1,3 +1,12 @@
 .Navbar-custom {
-    opacity: .25;
+    color:white;
+    height: 64px;
+    padding: 0 16px;
+}
+
+.LogoTitle {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    margin-right: 10px;
 }
